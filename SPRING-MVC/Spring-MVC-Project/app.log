@@ -1,0 +1,25 @@
+2023-01-22T19:17:36.285+05:30  INFO 25600 --- [main] c.p.m.S.SpringMvcProjectApplication      : Starting SpringMvcProjectApplication using Java 17.0.3.1 with PID 25600 (/Users/mani/Documents/Projects/SPRING-SPRING-BOOT-2023/SPRING-MVC/Spring-MVC-Project/target/classes started by mani in /Users/mani/Documents/Projects/SPRING-SPRING-BOOT-2023/SPRING-MVC/Spring-MVC-Project)
+2023-01-22T19:17:36.290+05:30  INFO 25600 --- [main] c.p.m.S.SpringMvcProjectApplication      : No active profile set, falling back to 1 default profile: "default"
+2023-01-22T19:17:37.784+05:30  INFO 25600 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-01-22T19:17:37.796+05:30  INFO 25600 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-01-22T19:17:37.797+05:30  INFO 25600 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-01-22T19:17:37.913+05:30  INFO 25600 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-01-22T19:17:37.914+05:30  INFO 25600 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1540 ms
+2023-01-22T19:17:38.669+05:30  INFO 25600 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-01-22T19:17:38.686+05:30  INFO 25600 --- [main] c.p.m.S.SpringMvcProjectApplication      : Started SpringMvcProjectApplication in 3.147 seconds (process running for 3.792)
+2023-01-22T19:17:50.119+05:30  INFO 25600 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-01-22T19:17:50.120+05:30  INFO 25600 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-01-22T19:17:50.125+05:30  INFO 25600 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2023-01-22T19:20:06.841+05:30  INFO 25754 --- [main] c.p.m.S.SpringMvcProjectApplication      : Starting SpringMvcProjectApplication using Java 17.0.3.1 with PID 25754 (/Users/mani/Documents/Projects/SPRING-SPRING-BOOT-2023/SPRING-MVC/Spring-MVC-Project/target/classes started by mani in /Users/mani/Documents/Projects/SPRING-SPRING-BOOT-2023/SPRING-MVC/Spring-MVC-Project)
+2023-01-22T19:20:06.845+05:30  INFO 25754 --- [main] c.p.m.S.SpringMvcProjectApplication      : No active profile set, falling back to 1 default profile: "default"
+2023-01-22T19:20:08.431+05:30  INFO 25754 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-01-22T19:20:08.442+05:30  INFO 25754 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-01-22T19:20:08.442+05:30  INFO 25754 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-01-22T19:20:08.576+05:30  INFO 25754 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-01-22T19:20:08.577+05:30  INFO 25754 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1644 ms
+2023-01-22T19:20:09.310+05:30  INFO 25754 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-01-22T19:20:09.327+05:30  INFO 25754 --- [main] c.p.m.S.SpringMvcProjectApplication      : Started SpringMvcProjectApplication in 3.273 seconds (process running for 3.891)
+2023-01-22T19:20:35.277+05:30  INFO 25754 --- [http-nio-8080-exec-4] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-01-22T19:20:35.278+05:30  INFO 25754 --- [http-nio-8080-exec-4] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-01-22T19:20:35.284+05:30  INFO 25754 --- [http-nio-8080-exec-4] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2023-01-22T19:20:35.347+05:30  INFO 25754 --- [http-nio-8080-exec-4] c.p.m.S.Controllers.StudentController    : student -> Student{id=2, name='meena', phoneNumber='23334324', email='meena@gmail.com', type=OFFLINE} 
